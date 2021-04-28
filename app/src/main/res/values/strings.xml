@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DICE</string>
+    <string name="_9">9</string>
+    <string name="press">Press</string>
+    <string name="enter_a_number_here">Enter a number here:</string>
+    <string name="role_the_dice">ROLE THE DICE</string>
+    <string name="todo">TODO</string>
+</resources>
